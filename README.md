@@ -1,6 +1,30 @@
-# RetrofitJC_DI 🚀
+<div align="center">
 
-A modern Android application demonstrating the integration of **Retrofit**, **Jetpack Compose**, and **Dagger Hilt** following clean architecture principles. This project fetches user data from a REST API and displays it in a sleek, reactive UI using Material 3.
+# Retrofit_Hilt_Jetpack_Compose 🚀
+
+<br>
+
+<!-- Download Button -->
+<a href="https://github.com/animeshraj253/RetroFit_Hilt_Jetack_Compose/releases/download/retrofit/app-release.apk">
+
+  <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+</a>
+
+<a href="https://github.com/animeshraj253/RetroFit_Hilt_Jetack_Compose/releases/tag/retrofit">
+  <img src="https://img.shields.io/badge/All_Releases-gray?style=for-the-badge&logo=github" alt="All Releases">
+</a>
+
+
+<br>
+<br>
+
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Material 3](https://img.shields.io/badge/Material_3-6200EE?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
+</div>
 
 ---
 
@@ -77,12 +101,6 @@ This project uses the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) A
 ---
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/RetrofitJC_DI/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/animeshraj253/RetroFit_Hilt_Jetack_Compose/issues).
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-*Created with ❤️ for Android Development.*
