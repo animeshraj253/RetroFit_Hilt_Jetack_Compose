@@ -62,7 +62,7 @@ com.example.retrofitjc_di
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/RetrofitJC_DI.git
+   git clone https://github.com/animeshraj253/RetroFit_Hilt_Jetack_Compose
    ```
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
